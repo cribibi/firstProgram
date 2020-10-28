@@ -3,6 +3,8 @@ package com.sda.exercitii;
 import java.util.*;
 
 public class Scrabble {
+    
+    //test git
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Please insert a number of words");
